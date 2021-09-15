@@ -1,1 +1,0 @@
-const leetcode = require('./leetcode')
